@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8de287a8-e7fa-4762-b6f5-41bd96152918" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="oppo" />
+  <component name="ProjectId" id="1hq8VTyEzqV6Gk50QxyZDUb6BqW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="C:/flutter/bin/cache/dart-sdk" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/helloworld/lib/main.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/helloworld" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.main.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8de287a8-e7fa-4762-b6f5-41bd96152918" name="Default Changelist" comment="" />
+      <created>1600727289862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600727289862</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="49" y="19" key="#Notifications" timestamp="1602276741857">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="49" y="19" key="#Notifications/0.0.1280.720@0.0.1280.720" timestamp="1602276741857" />
+    <state x="372" y="74" key="#main.dart" timestamp="1600727459530">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="372" y="74" key="#main.dart/0.0.1280.720@0.0.1280.720" timestamp="1600727459530" />
+    <state x="422" y="115" key="FileChooserDialogImpl" timestamp="1600748014218">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="422" y="115" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1600748014218" />
+    <state width="832" height="160" key="GridCell.Tab.0.bottom" timestamp="1602276776729">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="832" height="160" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1602276776729" />
+    <state width="832" height="160" key="GridCell.Tab.0.center" timestamp="1602276776729">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="832" height="160" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1602276776729" />
+    <state width="832" height="160" key="GridCell.Tab.0.left" timestamp="1602276776729">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="832" height="160" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1602276776729" />
+    <state width="832" height="160" key="GridCell.Tab.0.right" timestamp="1602276776729">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="832" height="160" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1602276776729" />
+    <state x="142" y="3" key="SettingsEditor" timestamp="1602436857242">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="3" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1602436857242" />
+    <state x="197" y="133" width="643" height="480" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1602437768432">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="197" y="133" width="643" height="480" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1280.720@0.0.1280.720" timestamp="1602437768431" />
+    <state x="336" y="184" key="com.intellij.ide.util.TipDialog" timestamp="1602430712098">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="336" y="184" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1602430712098" />
+  </component>
+</project>
